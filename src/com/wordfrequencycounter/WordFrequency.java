@@ -1,5 +1,5 @@
 package com.wordfrequencycounter;
-
+//Program to count word frequency in a sentence
 import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
